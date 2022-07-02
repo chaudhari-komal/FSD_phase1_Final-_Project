@@ -30,7 +30,7 @@ package files;
 		int mainSelection; 
 
  
-		System.out.println("*****************************************"); 
+		System.out.println("******Welcome to Lockedme.com**********"); 
 		System.out.println("******* Simplilearn Assignment 1 ********"); 
  		System.out.println("*****************************************"); 
  		System.out.println("************ Komal Chaudhari  *************"); 
